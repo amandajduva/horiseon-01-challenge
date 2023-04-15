@@ -6,7 +6,12 @@ This project's purpose is to refractor code for a marketing agency's existing we
 
 ## Usage
 
-To use this project, you can review the html and css files. To test your own suggestions on what to adjust int e html or css, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). Try any changes in the console panel and see then update in real time. 
+To use this project, you can review the html and css files. To test your own suggestions on what to adjust in the html or css, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). Try any changes in the console panel and see then update in real time. 
+
+Link to the [deployed application](https://amandajduva.github.io/horiseon-01-challenge/#social-media-marketing). 
+
+Screenshot of deployed application:
+![deployed application](assets/images/amandajduva.github.io_horiseon-01-challenge_.png)
 
 ## Credits
 
